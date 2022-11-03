@@ -1,0 +1,47 @@
+section {
+  padding-top: 12rem;
+  padding-bottom: 8rem;
+}
+
+#navbar {
+  background-color: #363749;
+}
+
+#navbar {
+  color: cornsilk;
+}
+
+.jumbotron {
+  background: url(../img/landscape1.jpg);
+  background-size: cover;
+  color: cornsilk;
+}
+
+#about {
+  color: #bc8d97;
+}
+
+#projects {
+  background-color: #817e9b;
+}
+
+#projects h3 {
+  color: cornsilk;
+}
+
+#projects p {
+  color: #817e9b;
+}
+
+#contact {
+  color: #bc8d97;
+}
+
+#footer {
+  background-color: #363749;
+  color: cornsilk;
+}
+
+#footer span {
+  font-style: italic;
+}
